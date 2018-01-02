@@ -1,0 +1,334 @@
+{
+	"personal": {
+		"name": "Alex Eftimiades",
+		"picture": "",
+		"email": "alexeftimiades@gmail.com",
+		"phone": "+1 (202) 606-0543",
+		"summary": "",
+		"location": {
+			"countryCode": "",
+			"region": "",
+			"city": "",
+			"postalCode": "",
+			"address": ""
+		},
+		"url": {
+			"github": "http://github.com/aeftimia",
+			"linkedin": "https://linkedin.com/in/alex-eftimiades-1a4836bb"
+		}
+	},
+    "experience": [
+		{
+            "company": "Paratii Video",
+            "url": "https://paratii.video",
+            "location": "Remote",
+            "positions": [
+                {
+                    "title": "Researcher (Freelance)",
+                    "dates": {
+                        "start": "2017",
+                        "end": "Present"
+                    },
+                    "summary": [
+                        "Researching existing and emerging technologies to integrate into tech stack and buisiness model.",
+                        "Designed and implemented smart contracts that track user data and financial transactions.",
+                        "Developed peer to peer protocol to deliver video content on demand."
+                    ]
+                }
+            ]
+        },
+        {
+            "company": "ClimaCell Inc.",
+            "url": "https://climacell.co",
+            "location": {
+                "countryCode": "",
+                "region": "MA",
+                "city": "Boston",
+                "postalCode": "",
+                "address": ""
+            },
+            "positions": [
+                {
+                    "title": "Data Scientist",
+                    "dates":{
+                        "start": "2017",
+                        "end": "2017"
+                    },
+                    "summary": [
+                        "Acted as data scientist, data engineer, and dev ops for an early stage weather forecasting startup.",
+                        "Wrote and integrated Python clustering algorithm with data in MongoDB.",
+                        "Helped develop proprietary algorithm to extract local rainrates from signals between cell towers.",
+                        "Deployed production code to AWS instances.",
+                        "Developed offline caching system for large amounts of data with HDF5.",
+                        "Wrote scraper that continuously loaded JSON data from public data sources into MongoDB."
+                    ]
+                }
+            ]
+        },
+        {
+            "company": "Comsol Inc.",
+            "url": "https://comsol.com",
+            "location": {
+                "countryCode": "",
+                "region": "MA",
+                "city": "Burlington",
+                "postalCode": "",
+                "address": ""
+            },
+			"positions": [
+                {
+                    "title": "Developer",
+                    "dates": {
+                        "start": "2016",
+                        "end": "2017"
+                    },
+                    "summary": [
+                        "Developed new software features for for mid-size computer simulations company.",
+                        "Researched new laws of physics to integrate into multi-million dollar product suite.",
+                        "Integrated new features into Java codebase.",
+                        "Refactored low level C++ to streamline higher level development.",
+                        "Wrote internal technical specifications and user facing documentation, and technical support."
+                    ]
+                }
+            ]
+        },
+        {
+			"company": "American Dental Association Foundation",
+			"url": "http://www.adafoundation.org/en",
+			"location": {
+				"countryCode": "",
+				"region": "MD",
+				"city": "Gaithersburg",
+				"postalCode": "",
+				"address": ""
+			},
+            "positions": [
+                {
+                    "title": "Software Engineer (Freelance)",
+                    "dates": {
+                        "start": "2015",
+                        "end": "2016"
+                    },
+                    "summary": [
+                        "Identified numerical means of characterizing 3D image data, designed and built the associated data pipeline.Developed new software features for for mid-size computer simulations company.",
+                        "Scope included cleaning 3D image scans with Python, organized data with HDF5, and producing automatic visualizations with matplotlib.",
+                        "Gave presentations to biologists at the American Dental Association Foundation and computer scientists at the National Institute of Standards and Technology.",
+                        "Coathored accepted journal article."
+                    ]
+                }
+            ]
+		},
+		{
+			"company": "University of Maryland Baltimore County",
+			"url": "https://umbc.edu",
+			"location": {
+				"countryCode": "",
+				"region": "MD",
+				"city": "Catonsville",
+				"postalCode": "",
+				"address": ""
+			},
+            "positions": [
+                {
+                    "title": "Researcher",
+                    "dates": {
+                        "start": "2014",
+                        "end": "2015"
+                    },
+                    "summary": [
+                        "Researched numerical means of verifying Einstein's equivalence principle.",
+                        "Compared mathematical models and corresponding numerical means of simulating electrons traveling through curved spacetime.",
+                        "Compared techniques using Mathematica and custom finite difference time domain with Python and delivered written report."
+                    ]
+                },
+                {
+                    "title": "Software Engineer (Freelance)",
+                    "dates": {
+                            "start": "2014",
+                            "end": "2014"
+                            },
+                    "summary": [
+                        "Optimized simulation of quantum encryption experiment and delivered visualizations of data produced using Python and C.",
+                        "Produced entire plots in 50 minute run where original code took 4 days to produce a single point.",
+                        "Coauthored submitted journal article."
+                    ]
+                }
+            ]
+		},
+		{
+			"company": "Tor",
+			"url": "https://www.torproject.org/",
+            "location": "Remote",
+            "positions": [
+                {
+                    "title": "Software Engineer (Freelance)",
+                    "location": {
+                        "countryCode": "Remote",
+                        "region": "",
+                        "city": "",
+                        "postalCode": "",
+                        "address": ""
+                    },
+                    "dates": {
+                        "start": "2013",
+                        "end": "2013"
+                    },
+                    "summary": [
+                        "Wrote [multithreaded software](https://github.com/aeftimia/hexchat) in Python to circumvent Internet censorship.",
+                        "Documented potential vulnerabilities in spec, developed network protocol to relay arbitrary TCP traffic over one or more XMPP chatlines using open source API, SleekXMPP."
+                    ]
+                }
+            ]
+        },
+        {
+			"company": "University of Maryland College Park",
+			"url": "https://umd.edu",
+			"location": {
+				"countryCode": "",
+				"region": "MD",
+				"city": "College Park",
+				"postalCode": "",
+				"address": ""
+			},
+            "positions": [
+                {
+                    "title": "Research Assistant",
+                    "dates": {
+                        "start": "2013",
+                        "end": "2013"
+                    },
+                    "summary": [
+                        "Researched new ways to harvest solar energy using carbon nanotubes.",
+                        "Used Python and MPI with open source APIs to run parallel computations."
+                    ]
+                }
+            ]
+		},
+		{
+			"company": "ICARE",
+			"url": "https://icare.org",
+			"location": {
+				"countryCode": "",
+				"region": "MD",
+				"city": "Rockville",
+				"postalCode": "",
+				"address": ""
+			},
+            "positions": [
+                {
+                    "title": "Backend Developer (Freelance)",
+                    "dates": {
+                        "start": "2008",
+                        "end": "2011"
+                    },
+                    "summary": [
+                        "Hosted and maintained MySQL database of clients, interfaced MySQL database with PHP.",
+                        "Deployed and hosted internal Wiki using open source API, PmWiki.",
+                        "Wrote [new Google Maps interface](http://www.pmwiki.org/wiki/Cookbook/GoogleMapAPIv3) to visualize organization geographically."
+                    ]
+                }
+            ]
+		},
+		{
+			"company": "NASA",
+			"url": "https://www.nasa.gov/centers/goddard/home/index.html",
+			"location": {
+				"countryCode": "",
+				"region": "MD",
+				"city": "Greenbelt",
+				"postalCode": "",
+				"address": ""
+			},
+            "positions": [
+                {
+                    "title": "Intern",
+                    "dates": {
+                        "start": "2010",
+                        "end": "2010"
+                    },
+                    "summary": [
+                        "Successfully determined angle of misaligned crystal axes in depolarizer with model and presented results."
+                    ]
+                }
+            ]
+		},
+		{
+			"company": "Army Research Laboratory",
+			"url": "http://arl.hcpss.org/",
+			"location": {
+				"countryCode": "",
+				"region": "MD",
+				"city": "Adelphi",
+				"postalCode": "",
+				"address": ""
+			},
+            "positions": [
+                {
+                    "title": "Intern",
+                    "dates": {
+                        "start": "2009",
+                        "end": "2009"
+                    },
+                    "summary": [
+                        "Used X-ray diffraction to characterize quantum well infrared photodetectors (QUIPs).",
+                        "Produced report and poster presentation on operation and physics of QUIPs and 32 page introduction to solid state physics."
+                    ]
+                }
+            ]
+        }
+	],
+	"projects": [
+		{
+			"project": "Discrete Exterior Calculus",
+			"url": "http://arxiv.org/abs/1405.7879",
+            "dates": {
+                "start": "2013",
+                "end": "2014"
+            },
+			"summary": [
+				"Developed new and versatile mesh generation algorithms in Python and C for arbitrary topologies and geometries.",
+				"Parallelized core algorithms from old open source Python library, cached results from computationally expensive routines, and [refurbished](bitbucket.org/aeftimia/pycula) an outdated open source CULA interface.",
+				"Offloaded computationally expensive linear algebra routines onto GPU.",
+				"[Wrote visualization routines](href='https://github.com/aeftimia/kahler') for 2D and 3D scalar and vector fields using matplotlib."
+			]
+		},
+		{
+			"project": "High Power Hackery",
+			"url": "http://www.dailymotion.com/video/x1o38rv",
+            "dates": {
+                "start": "2012",
+                "end": "2014"
+            },
+			"summary": [
+				"Designed and built Geiger counter from scatch.",
+				"Designed and built 30kV plasma speaker.",
+				"Designed and built X-ray machine.",
+				"Designed and built 2kW arc welder."
+			]
+		}
+	],
+	"education": [
+		{
+			"institution": "University of Maryland, Baltimore County",
+			"url": "https://umbc.edu",
+			"location": {
+				"countryCode": "",
+				"region": "MD",
+				"city": "Catonsville",
+				"postalCode": "",
+				"address": ""
+			},
+            "degrees": [
+                {
+                    "title": "BS, Physics",
+                    "dates": {
+                        "start": "",
+                        "end": "2015"
+                    },
+                    "gpa": "",
+                    "courses": []
+                }
+            ]
+		}
+	]
+}

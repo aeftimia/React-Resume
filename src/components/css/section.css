@@ -1,0 +1,12 @@
+.section {
+    clear: both; 
+}
+
+.header {
+    float: left;
+}
+
+.meta {
+    float: right;
+}
+

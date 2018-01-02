@@ -1,0 +1,33 @@
+.wrapper {
+    min-height: 100vh;
+    background: #ccc;
+    display: flex;
+    flex-direction: column;
+}
+
+.content {
+    display: flex;
+    background: #999;
+    color: #000; 
+}
+
+.columns {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.main{
+    width: 50%;
+    order: 2;
+    background: #eee;
+}
+.sidebar-first {
+    background: #ccc;
+    order: 1;
+}
+
+.sidebar-second { 
+    order: 3;
+    background: #ccc;
+}
