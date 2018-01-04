@@ -162,13 +162,6 @@
             "positions": [
                 {
                     "title": "Software Engineer (Freelance)",
-                    "location": {
-                        "countryCode": "Remote",
-                        "region": "",
-                        "city": "",
-                        "postalCode": "",
-                        "address": ""
-                    },
                     "dates": {
                         "start": "2013",
                         "end": "2013"

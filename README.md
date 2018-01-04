@@ -1,5 +1,5 @@
-# Resume generator
-Generate resumes as static webistes.
+# Resume Renderer
+Render resumes as static webistes.
 
 # Installation
 
@@ -10,8 +10,10 @@ gatsby new resume https://github.com/aeftimia/react-resume
 cd resume
 ```
 
-# Generate Your Resume
+# Render Your Resume
 Edit `src/resume.json` with your personal information.
 
 `gatsby develop` to test.
 `gatsby build` to save your html resume in the `public` folder.
+
+A sample HTML is located in `/public/index.html`
