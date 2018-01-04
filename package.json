@@ -1,6 +1,6 @@
 {
-  "name": "gatsby-starter-hello-world",
-  "description": "Gatsby hello world starter",
+  "name": "React Resume",
+  "description": "Render resume from json file with React",
   "license": "MIT",
   "scripts": {
     "develop": "gatsby develop",
