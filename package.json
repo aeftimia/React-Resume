@@ -5,7 +5,8 @@
   "scripts": {
     "develop": "gatsby develop",
     "build": "gatsby build",
-    "serve": "gatsby serve"
+    "serve": "gatsby serve",
+    "start": "serve ./public -s"
   },
   "dependencies": {
     "gatsby": "^1.9.145",
