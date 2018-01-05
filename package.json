@@ -1,5 +1,5 @@
 {
-  "name": "React Resume",
+  "name": "reactResume",
   "description": "Render resume from json file with React",
   "license": "MIT",
   "scripts": {
