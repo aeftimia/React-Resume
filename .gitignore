@@ -1,6 +1,5 @@
 .cache
 node_modules
 public
-*.lock
-package-lock.jso
+package-lock.json
 *.swp
