@@ -60,7 +60,7 @@
                         "Helped develop proprietary algorithm to extract local rainrates from signals between cell towers.",
                         "Deployed production code to AWS instances.",
                         "Developed offline caching system for large amounts of data with HDF5.",
-                        "Wrote scraper that continuously loaded JSON data from public data sources into MongoDB."
+                        "Wrote scraper that continuously loaded JSON data from public sources into MongoDB."
                     ]
                 }
             ]
@@ -83,11 +83,12 @@
                         "end": "2017"
                     },
                     "summary": [
-                        "Developed new software features for for mid-size computer simulations company.",
+                        "Developed new software features for mid-size computer simulations company.",
                         "Researched new laws of physics to integrate into multi-million dollar product suite.",
                         "Integrated new features into Java codebase.",
                         "Refactored low level C++ to streamline higher level development.",
-                        "Wrote internal technical specifications and user facing documentation, and technical support."
+                        "Wrote internal technical specifications and user facing documentation.",
+                        "Provided technical support for customers."
                     ]
                 }
             ]
@@ -110,8 +111,8 @@
                         "end": "2016"
                     },
                     "summary": [
-                        "Identified numerical means of characterizing 3D image data, designed and built the associated data pipeline.Developed new software features for for mid-size computer simulations company.",
-                        "Scope included cleaning 3D image scans with Python, organized data with HDF5, and producing automatic visualizations with Matplotlib.",
+                        "Identified numerical means of characterizing 3D image data, designed and built the associated data pipeline.",
+                        "Cleaned 3D image scans with Python, organized data with HDF5, and produced automatic visualizations with Matplotlib.",
                         "Gave presentations to biologists at the American Dental Association Foundation and computer scientists at the National Institute of Standards and Technology.",
                         "Coathored accepted journal article."
                     ]
@@ -138,7 +139,8 @@
                     "summary": [
                         "Researched numerical means of verifying Einstein's equivalence principle.",
                         "Compared mathematical models and corresponding numerical means of simulating electrons traveling through curved spacetime.",
-                        "Compared techniques using Mathematica and custom finite difference time domain with Python and delivered written report."
+                        "Compared techniques using Mathematica and custom finite difference time domain algorithms with Python.",
+                        "Delivered written report."
                     ]
                 },
                 {
@@ -168,7 +170,9 @@
                     },
                     "summary": [
                         "Wrote [multithreaded software](https://github.com/aeftimia/hexchat) in Python to circumvent Internet censorship.",
-                        "Documented potential vulnerabilities in spec, developed network protocol to relay arbitrary TCP traffic over one or more XMPP chatlines using open source API, SleekXMPP."
+                        "Developed network protocol to relay arbitrary TCP traffic over one or more XMPP chatlines using open source API, SleekXMPP.",
+                        "Circumvented bandwidth limitations imposed by Google chat",
+                        "Documented potential vulnerabilities in spec."
                     ]
                 }
             ]
@@ -215,7 +219,8 @@
                         "end": "2011"
                     },
                     "summary": [
-                        "Hosted and maintained MySQL database of clients, interfaced MySQL database with PHP.",
+                        "Hosted and maintained MySQL database of clients.",
+                        "Interfaced MySQL database with PHP.",
                         "Deployed and hosted internal Wiki using open source API, PmWiki.",
                         "Wrote [new Google Maps interface](http://www.pmwiki.org/wiki/Cookbook/GoogleMapAPIv3) to visualize organization geographically."
                     ]
@@ -264,7 +269,7 @@
                     },
                     "summary": [
                         "Used X-ray diffraction to characterize quantum well infrared photodetectors (QUIPs).",
-                        "Produced report and poster presentation on operation and physics of QUIPs and 32 page introduction to solid state physics."
+                        "Produced report and poster presentation on operation and physics of QUIPs as well as 32 page introduction to solid state physics."
                     ]
                 }
             ]
