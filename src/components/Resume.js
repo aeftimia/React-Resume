@@ -14,7 +14,7 @@ export default function Resume(props) {
             <div className='main section'>
                 <Personal
                     name={props.personal.name}
-                    url={props.personal.url}
+                    url={props.personal.url.github}
                     email={props.personal.email}
                     phone={props.personal.phone}
                     summary={props.personal.summary}
