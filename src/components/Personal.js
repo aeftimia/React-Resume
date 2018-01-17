@@ -10,7 +10,7 @@ export default function Personal(props) {
     return (
         <div>
             <h1>
-                <a href="https://github.com/aeftimia">{props.name}</a>
+                <a href={props.url}>{props.name}</a>
             </h1>
             <span className='head'>
                 <a href={`mailto:${props.email}`}>{props.email}</a>
